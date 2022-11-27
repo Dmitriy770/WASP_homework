@@ -1,0 +1,15 @@
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\bin\Debug\net6.0\WASP_autopark.exe
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\bin\Debug\net6.0\WASP_autopark.deps.json
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\bin\Debug\net6.0\WASP_autopark.runtimeconfig.json
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\bin\Debug\net6.0\WASP_autopark.dll
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\bin\Debug\net6.0\WASP_autopark.pdb
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.csproj.AssemblyReference.cache
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.AssemblyInfoInputs.cache
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.AssemblyInfo.cs
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.csproj.CoreCompileInputs.cache
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.dll
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\refint\WASP_autopark.dll
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.pdb
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\WASP_autopark.genruntimeconfig.cache
+C:\Users\zdima\source\repos\WASP_autopark\WASP_autopark\obj\Debug\net6.0\ref\WASP_autopark.dll
